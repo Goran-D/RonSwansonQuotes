@@ -18,6 +18,7 @@ function getQuotes(e) {
             });
             
             document.querySelector('.quotes').innerHTML = output;
+            console.log('it works?');
         }
     }
 
