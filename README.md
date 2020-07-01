@@ -1,2 +1,2 @@
 # RonSwanson
-Ron Swanson conquers GitHub
+Ron Swanson Quote Generator
