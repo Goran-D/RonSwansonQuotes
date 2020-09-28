@@ -1,0 +1,23 @@
+{
+  "name": "RonSwansonProject",
+  "version": "1.0.0",
+  "description": "Ron Swanson Quote Generator",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackTraven/RonSwansonQuotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackTraven/RonSwansonQuotes/issues"
+  },
+  "homepage": "https://github.com/JackTraven/RonSwansonQuotes",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
